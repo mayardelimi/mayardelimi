@@ -1,6 +1,8 @@
 <h1 align="center">Mayar Lyna Delimi</h1>
-<p align="center">Full-Stack Developer · AI Systems</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=8A8F98&center=true&vCenter=true&width=550&lines=Building+scalable+web+%26+full+stack+developer;Artificial+Intelligence;Data+scientist+%26+agentic+workflows" alt="Typing SVG" />
+</p>
 
 <br>
 
@@ -11,55 +13,65 @@
 
 <br>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Frontend:</h3>
+<p align="left">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
     <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a>
     <a href="https://twig.symfony.com/" target="_blank"> <img src="https://cdn.simpleicons.org/twig" alt="twig" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Backend:</h3>
+<p align="left">
     <a href="https://symfony.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a>
     <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Mobile:</h3>
+<p align="left">
     <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">DevOps & Cloud:</h3>
+<p align="left">
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
     <a href="https://github.com/features/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> </a>
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Databases:</h3>
+<p align="left">
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+    <a href="https://neo4j.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">AI & Agentic Systems:</h3>
+<p align="left">
     <a href="https://openai.com/" target="_blank"> <img src="https://cdn.simpleicons.org/openai" alt="openai" width="40" height="40"/> </a>
     <a href="https://www.langchain.com/" target="_blank"> <img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="40" height="40"/> </a>
     <a href="https://www.pinecone.io/" target="_blank"> <img src="https://cdn.simpleicons.org/pinecone" alt="pinecone" width="40" height="40"/> </a>
 </p>
 
-<br>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayarlyna&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&icon_color=8A8F98&text_color=333333&title_color=333333" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarlyna&layout=compact&theme=graywhite&hide_border=true&hide_title=true&text_color=333333&title_color=333333" alt="Top Languages" height="165">
-</p>
-
-<br>
-
-## Connect
-
-<p align="center">
-  <a href="mailto:your.email@example.com">Email</a> ·
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> ·
-  <a href="https://twitter.com/your-twitter">Twitter</a> ·
-  <a href="https://your-portfolio.com">Portfolio</a>
-</p>
