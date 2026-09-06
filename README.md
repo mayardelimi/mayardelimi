@@ -1,8 +1,4 @@
-<h1 align="center">Mayar Lyna Delimi</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=8A8F98&center=true&vCenter=true&width=550&lines=Building+scalable+web+%26+full+stack+developer;Artificial+Intelligence;Data+scientist+%26+agentic+workflows" alt="Typing SVG" />
-</p>
+<h1 align="center">Mayar Lyna Delimi</h1> <p align="center">Full-Stack Developer · Mobile Engineer · AI & Agentic Systems</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=8A8F98&center=true&vCenter=true&width=550&lines=Building+scalable+web+%26+mobile+apps;Designing+cloud+architecture;Crafting+AI+agents+%26+LLM+workflows" alt="Typing SVG" /> </p> <br>
 
 <br>
 
@@ -15,7 +11,6 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -25,11 +20,7 @@
 <h3 align="left">Frontend:</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
     <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a>
-    <a href="https://twig.symfony.com/" target="_blank"> <img src="https://cdn.simpleicons.org/twig" alt="twig" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Backend:</h3>
@@ -48,7 +39,7 @@
 <h3 align="left">DevOps & Cloud:</h3>
 <p align="left">
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://github.com/features/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> </a>
+    <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> </a>
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </p>
@@ -68,10 +59,8 @@
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">AI & Agentic Systems:</h3>
+<h3 align="left">Agentic Systems:</h3>
 <p align="left">
-    <a href="https://openai.com/" target="_blank"> <img src="https://cdn.simpleicons.org/openai" alt="openai" width="40" height="40"/> </a>
     <a href="https://www.langchain.com/" target="_blank"> <img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="40" height="40"/> </a>
-    <a href="https://www.pinecone.io/" target="_blank"> <img src="https://cdn.simpleicons.org/pinecone" alt="pinecone" width="40" height="40"/> </a>
 </p>
 
