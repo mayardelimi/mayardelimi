@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+mobile+apps;Designing+cloud+architectures;Crafting+AI+agents+%26+LLM+workflows;Turning+ideas+into+SaaS+products" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayarlyna&label=Profile%20Views&color=6c5ce7&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### About Me
@@ -107,12 +103,6 @@ const mayar = {
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayarlyna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayarlyna&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarlyna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
