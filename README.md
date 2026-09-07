@@ -6,8 +6,7 @@
 
 - Ask me about: web development, mobile development, cloud architecture, generative AI, agentic systems, SaaS products, machine & deep learning
 - Currently focused on tool-augmented AI agents and multi-agent systems
-
-<br>
+  
 ### **Languages**
 <p>
     <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="php" height="36" /></a>
@@ -19,18 +18,31 @@
 ### **Frontend & Mobile**
 <p>
     <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" height="36" /></a>
-    <a href="https://streamlit.io/" target="_blank"><img src="https://skillicons.dev/icons?i=streamlit" alt="streamlit" height="36" /></a>
     <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="flutter" height="36" /></a>
-
+    <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="streamlit" height="32" /></a>
 </p>
 
-### **Backend & AI Agents**
+### **Backend**
 <p>
     <a href="https://symfony.com/" target="_blank"><img src="https://skillicons.dev/icons?i=symfony" alt="symfony" height="36" /></a>
     <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" height="36" /></a>
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="django" height="36" /></a>
     <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" height="36" /></a>
-    <a href="https://www.langchain.com/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="langchain" height="36" /></a>
+</p>
+
+### **AI & Data Science**
+<p>
+    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="36" /></a>
+    <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" height="36" /></a>
+    <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" height="36" /></a>
+    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" alt="pandas" height="36" /></a>
+    <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="seaborn" height="32" /></a>
+    <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" height="36" /></a>
+</p>
+
+### **AI Agents**
+<p>
+    <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" alt="langchain" height="32" /></a>
 </p>
 
 ### **Databases**
@@ -50,8 +62,12 @@
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" height="36" /></a>
 </p>
 
-### **Tools**
+### **Tools & Environment**
 <p>
     <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" height="36" /></a>
     <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="postman" height="36" /></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="36" /></a>
+    <a href="https://www.mathworks.com/" target="_blank"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="matlab" height="32" /></a>
+    <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" height="36" /></a>
+    <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" height="36" /></a>
 </p>
