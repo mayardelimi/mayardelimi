@@ -7,7 +7,7 @@
 - Full-stack developer building **SaaS products** across web and mobile
 - Currently focused on **tool-augmented AI agents** and **multi-agent systems**
 - Building agent workflows with **LangGraph** and connecting tools through the **Model Context Protocol (MCP)**
-- Experienced in **computer vision** and **NLP**, from CNNs, ResNet and YOLO to LLM-based pipelines
+- Experienced in **machine learning** **deep learning** **computer vision** and **NLP** to LLM-based pipelines
 - Ask me about: web development, mobile development, generative AI, agentic systems, SaaS products, machine & deep learning
 
 <br/>
