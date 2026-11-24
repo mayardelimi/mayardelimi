@@ -1,4 +1,4 @@
-<h1 align="center">Mayar Lyna Delimi</h1> <p align="center">Full-Stack Developer · AI & Agentic Systems</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=8A8F98&center=true&vCenter=true&width=550&lines=Building+scalable+web+%26+mobile+apps;Designing+cloud+architecture;Crafting+AI+agents+%26+LLM+workflows" alt="Typing SVG" /> </p> <br>
+<h1 align="center">Mayar Lyna Delimi</h1> <p align="center">Full-Stack Developer · AI & Agentic Systems</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=8A8F98&center=true&vCenter=true&width=550&lines=Building+scalable+web+%26+mobile+apps;Crafting+AI+agents+%26+LLM+workflows" alt="Typing SVG" /> </p> <br>
 
 <br>
 
