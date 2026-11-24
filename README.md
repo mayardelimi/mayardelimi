@@ -1,73 +1,82 @@
-<h1 align="center">Mayar Lyna Delimi</h1> <p align="center">Full-Stack Developer · AI & Agentic Systems</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=8A8F98&center=true&vCenter=true&width=550&lines=Building+scalable+web+%26+mobile+apps;Crafting+AI+agents+%26+LLM+workflows" alt="Typing SVG" /> </p> <br>
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:6366f1&text=Mayar%20Lyna%20Delimi&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Agentic%20Systems&descAlignY=60&descSize=17" alt="Header" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+mobile+apps;Crafting+AI+agents+%26+LLM+workflows;Orchestrating+multi-agent+systems+with+LangGraph;Connecting+tools+to+LLMs+through+MCP" alt="Typing SVG" />
+
+<br/><br/>
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-6366F1?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+
+</div>
+
+<br/>
 
 ## About
 
-- Ask me about: web development, mobile development, , generative AI, agentic systems, SaaS products, machine & deep learning
-- Currently focused on tool-augmented AI agents and multi-agent systems
-  
-### **Languages**
+- Full-stack developer building **SaaS products** across web and mobile
+- Currently focused on **tool-augmented AI agents** and **multi-agent systems**
+- Exploring the **Model Context Protocol (MCP)** to give agents standardized access to tools and data
+- Designing stateful agent workflows with **LangGraph**
+- Ask me about: web development, mobile development, generative AI, agentic systems, SaaS products, machine & deep learning
+
+<br/>
+
+## Tech Stack
+
+### Languages
 <p>
-    <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="php" height="36" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" height="36" /></a>
-    <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="python" height="36" /></a>
-    <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="dart" height="36" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php,js,python,dart&theme=dark" alt="languages" height="40" /></a>
 </p>
 
-### **Frontend & Mobile**
+### Frontend & Mobile
 <p>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" height="36" /></a>
-    <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="flutter" height="36" /></a>
-    <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="streamlit" height="32" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" alt="frontend" height="40" /></a>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" height="34" />
 </p>
 
-### **Backend**
+### Backend
 <p>
-    <a href="https://symfony.com/" target="_blank"><img src="https://skillicons.dev/icons?i=symfony" alt="symfony" height="36" /></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" height="36" /></a>
-    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="django" height="36" /></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" height="36" /></a>
+  <a href="https://symfony.com/" target="_blank"><img src="https://skillicons.dev/icons?i=symfony,fastapi,django,flask&theme=dark" alt="backend" height="40" /></a>
 </p>
 
-### **AI & Data Science**
+### AI Agents
 <p>
-    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="36" /></a>
-    <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" height="36" /></a>
-    <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" height="36" /></a>
-    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" alt="pandas" height="36" /></a>
-    <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" alt="seaborn" height="32" /></a>
-    <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" height="36" /></a>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langgraph" height="34" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="langchain" height="34" />
+  <img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="mcp" height="34" />
 </p>
 
-### **AI Agents**
+### AI & Data Science
 <p>
-    <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" alt="langchain" height="32" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,opencv&theme=dark" alt="ai" height="40" /></a>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" height="34" />
 </p>
 
-### **Databases**
+### Databases
 <p>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" height="36" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="36" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" height="36" /></a>
-    <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis" height="36" /></a>
-    <a href="https://neo4j.com/" target="_blank"><img src="https://skillicons.dev/icons?i=neo4j" alt="neo4j" height="36" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,neo4j&theme=dark" alt="databases" height="40" /></a>
 </p>
 
-### **DevOps & Cloud**
+### DevOps & Cloud
 <p>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" height="36" /></a>
-    <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="github actions" height="36" /></a>
-    <a href="https://www.nginx.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" height="36" /></a>
-    <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" height="36" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,aws&theme=dark" alt="devops" height="40" /></a>
 </p>
 
-### **Tools & Environment**
+### Tools & Environment
 <p>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" height="36" /></a>
-    <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="postman" height="36" /></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="36" /></a>
-    <a href="https://www.mathworks.com/" target="_blank"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="matlab" height="32" /></a>
-    <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" height="36" /></a>
-    <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" height="36" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git,postman,figma,arduino,ubuntu&theme=dark" alt="tools" height="40" /></a>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="matlab" height="34" />
 </p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366f1,100:0f172a&section=footer" alt="Footer" width="100%" />
+
+</div>
