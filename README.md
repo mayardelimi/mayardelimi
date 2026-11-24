@@ -1,18 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:6366f1&text=Mayar%20Lyna%20Delimi&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Agentic%20Systems&descAlignY=60&descSize=17" alt="Header" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+mobile+apps;Crafting+AI+agents+%26+LLM+workflows;Orchestrating+multi-agent+systems+with+LangGraph;Connecting+tools+to+LLMs+through+MCP" alt="Typing SVG" />
-
-<br/><br/>
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-6366F1?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-
-</div>
+<h1 align="center">Mayar Lyna Delimi</h1> <p align="center">Full-Stack Developer · AI & Agentic Systems</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=8A8F98&center=true&vCenter=true&width=550&lines=Building+scalable+web+%26+mobile+apps;Crafting+AI+agents+%26+LLM+workflows" alt="Typing SVG" /> </p> <br>
 
 <br/>
 
@@ -20,8 +6,8 @@
 
 - Full-stack developer building **SaaS products** across web and mobile
 - Currently focused on **tool-augmented AI agents** and **multi-agent systems**
-- Exploring the **Model Context Protocol (MCP)** to give agents standardized access to tools and data
-- Designing stateful agent workflows with **LangGraph**
+- Building agent workflows with **LangGraph** and connecting tools through the **Model Context Protocol (MCP)**
+- Experienced in **machine learning** **deep learning** **computer vision** and **NLP** to LLM-based pipelines
 - Ask me about: web development, mobile development, generative AI, agentic systems, SaaS products, machine & deep learning
 
 <br/>
@@ -49,11 +35,33 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langgraph" height="34" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="langchain" height="34" />
   <img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="mcp" height="34" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-334155?style=for-the-badge" alt="multi-agent systems" height="34" />
+  <img src="https://img.shields.io/badge/Tool_Calling-334155?style=for-the-badge" alt="tool calling" height="34" />
+  <img src="https://img.shields.io/badge/LLM_Workflows-334155?style=for-the-badge" alt="llm workflows" height="34" />
+  <img src="https://img.shields.io/badge/Generative_AI-334155?style=for-the-badge" alt="generative ai" height="34" />
 </p>
 
-### AI & Data Science
+### Deep Learning & Computer Vision
 <p>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,opencv&theme=dark" alt="ai" height="40" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="dl frameworks" height="40" /></a>
+  <img src="https://img.shields.io/badge/CNN-EE4C2C?style=for-the-badge" alt="cnn" height="34" />
+  <img src="https://img.shields.io/badge/ResNet-EE4C2C?style=for-the-badge" alt="resnet" height="34" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" alt="yolo" height="34" />
+  <img src="https://img.shields.io/badge/CLIP-EE4C2C?style=for-the-badge" alt="clip" height="34" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="computer vision" height="34" />
+</p>
+
+### NLP
+<p>
+  <img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge" alt="nlp" height="34" />
+  <img src="https://img.shields.io/badge/Arabic_NLP-0F766E?style=for-the-badge" alt="arabic nlp" height="34" />
+  <img src="https://img.shields.io/badge/Text_Classification-0F766E?style=for-the-badge" alt="text classification" height="34" />
+  <img src="https://img.shields.io/badge/LLM_Integration-0F766E?style=for-the-badge" alt="llm integration" height="34" />
+</p>
+
+### Machine Learning & Data Science
+<p>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn,pandas&theme=dark" alt="ml" height="40" /></a>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" height="34" />
 </p>
 
@@ -72,11 +80,3 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git,postman,figma,arduino,ubuntu&theme=dark" alt="tools" height="40" /></a>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="matlab" height="34" />
 </p>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366f1,100:0f172a&section=footer" alt="Footer" width="100%" />
-
-</div>
