@@ -49,18 +49,20 @@
 
 ### Databases
 <p>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,neo4j&theme=dark" alt="databases" height="40" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="databases" height="40" /></a>
+  <a href="https://neo4j.com/" target="_blank"><img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="neo4j" height="34" /></a>
   <a href="https://github.com/facebookresearch/faiss" target="_blank"><img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="faiss" height="34" /></a>
   <a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="chromadb" height="34" /></a>
 </p>
 
 ### DevOps & Cloud
 <p>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,aws&theme=dark" alt="devops" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker,nginx,aws&theme=dark" alt="devops" height="40" /></a>
 </p>
 
 ### Tools & Environment
 <p>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git,postman,figma,arduino,ubuntu&theme=dark" alt="tools" height="40" /></a>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="matlab" height="34" />
+  <a href="https://gazebosim.org/" target="_blank"><img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge" alt="gazebo" height="34" /></a>
 </p>
