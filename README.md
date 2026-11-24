@@ -4,7 +4,7 @@
 
 ## About
 
-- Ask me about: web development, mobile development, cloud architecture, generative AI, agentic systems, SaaS products, machine & deep learning
+- Ask me about: web development, mobile development, , generative AI, agentic systems, SaaS products, machine & deep learning
 - Currently focused on tool-augmented AI agents and multi-agent systems
   
 ### **Languages**
